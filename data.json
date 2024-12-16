@@ -1,0 +1,44 @@
+[
+    {
+        "timestamp": "2024-12-15T10:00:00Z",
+        "frequency": 2.3,
+        "flowRate": 0.51,
+        "flowRateHourly": 30.6
+    },
+    {
+        "timestamp": "2024-12-15T10:01:00Z",
+        "frequency": 2.8,
+        "flowRate": 0.62,
+        "flowRateHourly": 37.2
+    },
+    {
+        "timestamp": "2024-12-15T10:02:00Z",
+        "frequency": 3.1,
+        "flowRate": 0.69,
+        "flowRateHourly": 41.4
+    },
+    {
+        "timestamp": "2024-12-15T10:03:00Z",
+        "frequency": 2,
+        "flowRate": 0.44,
+        "flowRateHourly": 26.4
+    },
+    {
+        "timestamp": "2024-12-15T10:04:00Z",
+        "frequency": 1.7,
+        "flowRate": 0.38,
+        "flowRateHourly": 22.8
+    },
+    {
+        "timestamp": "2024-12-15T10:05:00Z",
+        "frequency": 1.2,
+        "flowRate": 0.27,
+        "flowRateHourly": 16.2
+    },
+    {
+        "frequency": 2.5,
+        "flowRate": 0.55,
+        "flowRateHourly": 33,
+        "timestamp": "2024-12-16 00:13:10"
+    }
+]
